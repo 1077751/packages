@@ -1,5 +1,5 @@
 #
-# Copyright (C) 2016 Shuanglei Tao <tsl0922@gmail.com>
+# Copyright (C) 2016 Shuanglei Tao <tsl0922@gmail.com
 #
 # This is free software, licensed under the GNU General Public License v2.
 # See /LICENSE for more information.
