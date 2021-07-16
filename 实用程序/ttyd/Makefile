@@ -45,6 +45,6 @@ define Package/ttyd/install
 	$(INSTALL_CONF) ./files/ttyd.config $(1)/etc/config/ttyd
 	$(INSTALL_DIR) $(1)/etc/init.d/
 	$(INSTALL_BIN) ./files/ttyd.init $(1)/etc/init.d/ttyd
-endef
+endef 
 
 $(eval $(call BuildPackage,ttyd))
